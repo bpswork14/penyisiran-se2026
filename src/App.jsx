@@ -180,7 +180,7 @@ export default function App() {
                 {/* Section Title */}
                 <Box sx={{ mb: 2 }}>
                   <Typography variant="h6" sx={{ fontWeight: 700 }}>
-                    Rekap Status Assignment per Wilayah
+                    Rekapatilasi Progres Penyisiran SE2026 per Wilayah
                   </Typography>
                   <Typography variant="body2" sx={{ color: 'text.secondary' }}>
                     {entities?.subSls > 0
